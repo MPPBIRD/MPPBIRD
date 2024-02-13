@@ -1,0 +1,5 @@
+question = input ("Will you be my valentine? (yes or no):")
+if question == "yes":
+     print ("yey, I Love YOU")
+     if question == "no":
+         print (":( ")
